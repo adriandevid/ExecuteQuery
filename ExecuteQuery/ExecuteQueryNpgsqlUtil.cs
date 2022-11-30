@@ -1,5 +1,4 @@
 ﻿using ExecuteQuery.Interfaces;
-using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Newtonsoft.Json;
 using Npgsql;
