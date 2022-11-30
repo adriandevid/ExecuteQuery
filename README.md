@@ -1,6 +1,6 @@
 # ExecuteQuery is library open source
 This is a library open source for execute queries in postgresql database.
-
+Package: https://www.nuget.org/packages/ExecuteQuery/
 ## Execute Mode
 
 First execute the some procedures, is essential create a ConnectionString in appsettings with name **DB** or create a environment variable with name **"DB"**.
